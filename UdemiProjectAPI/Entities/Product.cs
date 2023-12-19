@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace UdemiProjectAPI.Entities
 {
-    public class Product// mostafa was here
+    public class Product// youssef push
     {
         public int Id { get; set; }
         public string Name { get; set; }
