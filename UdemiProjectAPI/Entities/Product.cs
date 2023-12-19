@@ -16,7 +16,7 @@ namespace UdemiProjectAPI.Entities
         public int QuantityInStock { get; set; }
         public string? PictureUrl { get; set; }
         
-
+        //youssef is there
 
     }
 }
