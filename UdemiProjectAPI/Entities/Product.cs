@@ -15,7 +15,7 @@ namespace UdemiProjectAPI.Entities
         public string? Brand { get; set; }
         public int QuantityInStock { get; set; }
         public string? PictureUrl { get; set; }
-
+        
 
 
     }
