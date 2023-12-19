@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace UdemiProjectAPI.Entities
 {
-    public class Product //youssef was here
-    {  
+    public class Product// mostafa was here
+    {
         public int Id { get; set; }
         public string Name { get; set; }
         public string? Description { get; set; }
