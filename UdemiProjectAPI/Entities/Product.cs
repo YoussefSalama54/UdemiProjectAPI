@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace UdemiProjectAPI.Entities
 {
-    public class Product// youssef push
+    public class Product
     {
-        public int Id { get; set; }
+        public int Id { get; set; } 
         public string Name { get; set; }
         public string? Description { get; set; }
         public long Price { get; set; }
@@ -16,7 +16,7 @@ namespace UdemiProjectAPI.Entities
         public int QuantityInStock { get; set; }
         public string? PictureUrl { get; set; }
 
-
+        //youssef was here
 
     }
 }
